@@ -11,4 +11,8 @@ This project fetches, processes, and analyzes author data from OpenAlex API for 
    ```sh
    git clone https://github.com/yourusername/openalex-scientists.git
    cd openalex-scientists
-
+2. Install dependencies:
+   pip install pandas requests tqdm
+3. Run the scripts:
+   python fetch_authors.py
+   python fetch_author_details.py
