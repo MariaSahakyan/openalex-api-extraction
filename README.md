@@ -16,3 +16,4 @@ This project fetches, processes, and analyzes author data from OpenAlex API for 
 3. Run the scripts:
    python fetch_authors.py
    python fetch_author_details.py
+   python fetch_works.py
