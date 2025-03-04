@@ -1,4 +1,6 @@
 pandas
 requests
 tqdm
-jsonlines
+concurrent.futures
+json
+time
