@@ -1,5 +1,7 @@
 # OpenAlex Scientists Extraction
-This project fetches, processes, and analyzes author data from OpenAlex API for scientists affiliated with institutions in Saudi Arabia (SA), UAE (AE), and Qatar (QA). The processed dataset is derived from publicly available OpenAlex data and follows their licensing terms. The extracted metadata is shared in compliance with OpenAlex’s terms of use. The original source can be accessed at https://openalex.org/.
+This project provides Python scripts for fetching and processing author and work data from the OpenAlex API, specifically for scientists affiliated with institutions in Saudi Arabia (SA), UAE (AE), and Qatar (QA). The scripts allow users to retrieve and analyze metadata directly from OpenAlex, following their licensing terms.
+
+No extracted data is included in this repository. Users must run the scripts themselves to obtain data. The OpenAlex API and its terms of use can be accessed at https://openalex.org/.
 
 
 ##  Features
